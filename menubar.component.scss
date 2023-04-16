@@ -1,0 +1,9 @@
+.menubar-container{
+    width: 100%;
+    top: 0px;
+    background-color: rgba(0,0,0,0.4);
+    height: 55px;
+    display: grid;
+    position: fixed;
+    grid-template-columns: 40% 50%;
+}
